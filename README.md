@@ -2,7 +2,12 @@
 
 I'm Mario (he/him) and my background comes from social sciences, but open and free software brought me here. I'm focused on data science and I would be excited to collaborate to any piece of software that contributes to make the world better, but always from the sight of privacy, digital rights and equality.
 
-## 🤔 What I use
+## What languages and platforms do I know
+- 🔭 [R](https://www.r-project.org/), [Python](https://python.org) and Bash
+- ⚡ HTML, CSS and a bit of PHP
+- 🐳 Docker
+
+## 🤔 What software do I use
 
 - 💻 [Fedora Workstation 36](https://getfedora.org/)
 - 🖥️ [elementary OS 6](https://elementary.io/)
@@ -10,9 +15,6 @@ I'm Mario (he/him) and my background comes from social sciences, but open and fr
 - 📱 [Privacy-focused Android CalyxOS](https://www.calyxos.org/)
 - 🌐 [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - 🗒️ [VSCodium](https://vscodium.com/) and [RStudio](https://posit.co/)
-- 🔭 [R](https://www.r-project.org/), [Python](https://python.org) and Bash
-- ⚡ HTML, CSS and a bit of PHP
-- 🐳 Docker
 
 ## 📈 My GitHub activity
 
