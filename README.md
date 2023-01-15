@@ -12,7 +12,7 @@ I'm Mario (he/him) and my background comes from social sciences, but open and fr
 - 💻 [Fedora Workstation 37](https://getfedora.org/)
 - 🖥️ [elementary OS 6.1](https://elementary.io/)
 - 🎛 [Raspberry Pi 4B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/)
-- 🖥️ Local server using old hardware, running Debian and deployed apps with Docker
+- 🖥️ Local server, running [Debian Server](https://www.debian.org/index.es.html) and apps deployed with [Docker](https://www.docker.com/)
 - 📱 [Privacy-focused Android CalyxOS](https://www.calyxos.org/)
 - 🌐 [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - 🗒️ [VSCodium](https://vscodium.com/) and [RStudio](https://posit.co/)
