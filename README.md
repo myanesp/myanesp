@@ -7,11 +7,12 @@ I'm Mario (he/him) and my background comes from social sciences, but open and fr
 - ⚡ HTML, CSS and a bit of PHP
 - 🐳 Docker
 
-## 🤔 What software do I use
+## 🤔 Which software do I use
 
-- 💻 [Fedora Workstation 36](https://getfedora.org/)
-- 🖥️ [elementary OS 6](https://elementary.io/)
+- 💻 [Fedora Workstation 37](https://getfedora.org/)
+- 🖥️ [elementary OS 6.1](https://elementary.io/)
 - 🎛 [Raspberry Pi 4B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/)
+- 🖥️ Local server using old hardware, running Debian and deployed apps with Docker
 - 📱 [Privacy-focused Android CalyxOS](https://www.calyxos.org/)
 - 🌐 [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - 🗒️ [VSCodium](https://vscodium.com/) and [RStudio](https://posit.co/)
