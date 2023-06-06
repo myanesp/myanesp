@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mario (he/him) and my background comes from social sciences, but open and free software brought me here. I'm focused on data science and I would be excited to collaborate to any piece of software that contributes to make the world better, but always from the sight of privacy, digital rights and equality.
+I'm Mario (he/him) and I'm a data scientist. I'm focused on data science and I would be excited to collaborate to any piece of software that contributes to make the world better, but always from the sight of privacy, digital rights and equality.
 
 ## What languages and platforms do I know
 - 🔭 [R](https://www.r-project.org/), [Python](https://python.org) and Bash
