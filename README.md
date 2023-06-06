@@ -9,8 +9,8 @@ I'm Mario (he/him) and my background comes from social sciences, but open and fr
 
 ## 🤔 Which software do I use
 
-- 💻 [Fedora Workstation 37](https://getfedora.org/)
-- 🖥️ [elementary OS 6.1](https://elementary.io/)
+- 💻 [Fedora Workstation 38](https://getfedora.org/)
+- 🖥️ [elementary OS 7](https://elementary.io/)
 - 🎛 [Raspberry Pi 4B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/)
 - 🖥️ Local server, running [Debian Server](https://www.debian.org/index.es.html) and apps deployed with [Docker](https://www.docker.com/)
 - 📱 [Privacy-focused Android CalyxOS](https://www.calyxos.org/)
