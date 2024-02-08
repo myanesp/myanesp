@@ -2,20 +2,12 @@
 
 I'm Mario (he/him) and I'm a data scientist. I'm focused on data science and I would be excited to collaborate to any piece of software that contributes to make the world better, but always from the sight of privacy, digital rights and equality.
 
+You can see more info about me at [my portfolio](https://me.marioyanes.es).
+
 ## What languages and platforms do I know
 - 🔭 [R](https://www.r-project.org/), [Python](https://python.org) and Bash
 - ⚡ HTML, CSS and a bit of PHP
 - 🐳 Docker
-
-## 🤔 Which software do I use
-
-- 💻 [Fedora Workstation 38](https://getfedora.org/)
-- 🖥️ [elementary OS 7](https://elementary.io/)
-- 🎛 [Raspberry Pi 4B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/)
-- 🖥️ Local server, running [Debian Server](https://www.debian.org/index.es.html) and apps deployed with [Docker](https://www.docker.com/)
-- 📱 [Privacy-focused Android CalyxOS](https://www.calyxos.org/)
-- 🌐 [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-- 🗒️ [VSCodium](https://vscodium.com/) and [RStudio](https://posit.co/)
 
 ## 📈 My GitHub activity
 
